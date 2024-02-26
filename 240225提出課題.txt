@@ -24,7 +24,7 @@ PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> echo "Hello,world!"
 [main (root-commit) 070afb2] 1蝗樒岼縺ｮ繧ｳ繝溘ャ繝            hallenge"
  1 file changed, 0 insertions(+), 0 deletions(-)              /git_Development/git_challenge/.git/
  create mode 100644 hello_world.txt
-PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> gld!" >> hello_world.txtit commit -m "Hello.txtを追加"
+PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> gld!" >> hello_world.txtit commit -m "hello_world.txtを追加"
 On branch main
 nothing to commit, working tree clean
 PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> echo "こんにちは、世界!" >> hello_world.txt
