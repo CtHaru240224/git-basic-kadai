@@ -31,7 +31,7 @@ PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> echo "こんにち�
 On branch main
 no changes added to commit (use "git add" and/or "git commit -a")
 PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> git log --oneline
-070afb2 (HEAD -> main) 1回目のコミット
+070afb2 (HEAD -> main) hello_world.txtを追加
 PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> gAuthor: CtHaru240224 <haru7613k-shopping@yahoo.co.jp>
 Date:   Sun Feb 25 15:45:04 2024 +0900
 PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> git log --oneline
