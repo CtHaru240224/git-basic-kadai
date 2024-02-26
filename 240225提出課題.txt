@@ -24,7 +24,7 @@ PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> echo "Hello,world!"
 [main (root-commit) 070afb2] 1蝗樒岼縺ｮ繧ｳ繝溘ャ繝            hallenge"
  1 file changed, 0 insertions(+), 0 deletions(-)              /git_Development/git_challenge/.git/
  create mode 100644 hello_world.txt
-PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> gld!" >> hello_world.txtit commit -m "最初のコミット"
+PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> gld!" >> hello_world.txtit commit -m "Hello.txtを追加"
 On branch main
 nothing to commit, working tree clean
 PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> echo "こんにちは、世界!" >> hello_world.txt
@@ -42,7 +42,7 @@ PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> git commit -m "日�
  1 file changed, 0 insertions(+), 0 deletions(-)
 PS C:\Users\Chiharu Takahashi\git_Development\git_challenge> git log --oneline
 4f49168 (HEAD -> main) 日本語訳を追記
-070afb2 1回目のコミット
+070afb2 hello_world.txtを追加
 PS C:\Users\Chiharu Takahashi\git_Development\git_challenge>  
 
 
